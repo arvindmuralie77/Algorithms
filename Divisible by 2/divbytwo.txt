@@ -1,0 +1,11 @@
+#include<iostream>
+void main()
+{
+  int a;
+  cin>>a;
+  if(a%2==0)
+    cout<< "Divisible by two";
+  else
+    cout<< "Not divisible by two";
+  
+}
